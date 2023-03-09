@@ -10,6 +10,11 @@ scoreboard objectives add incndrybs dummy
 # Flags that installation has occured.
 scoreboard players set installed incndrybs 1
 
+# The amount of ticks between each bomb dropped by a bee.
+scoreboard players set bee_bomb_cooldown incndrybs 15
+# The explosion power of bee bombs.
+scoreboard players set bee_bomb_power incndrybs 10
+
 # Used to put in a delay on how often bees can drop a bomb.
 scoreboard objectives add incndrybs_bomb_cooldown dummy
 

@@ -5,7 +5,7 @@
 #
 
 # We summon the bomb a little below the bee to simulate it dropping it.
-execute positioned ~ ~-0.25 ~ run function incndrybs:bee_bomb/summon_owned_bee_bomb
+execute positioned ~ ~-0.25 ~ run function incndrybs:bee_bomb/summon_owned
 
 # Starts cooldown until next bomb can be dropped.
-scoreboard players set @s incndrybs_bomb_cooldown 15
+scoreboard players operation @s incndrybs_bomb_cooldown = bee_bomb_cooldown incndrybs

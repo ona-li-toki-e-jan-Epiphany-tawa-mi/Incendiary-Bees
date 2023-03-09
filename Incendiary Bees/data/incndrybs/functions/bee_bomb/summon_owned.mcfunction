@@ -6,9 +6,9 @@
 #
 
 # No need to set motion, bee_bomb/on_tick will take care of it.
-summon fireball ~ ~ ~ {Tags:["incndrybs_bee_bomb","incndrybs_new_bee_bomb"],ExplosionPower:10b}
+summon fireball ~ ~ ~ {Tags:["incndrybs_bee_bomb","incndrybs_new_bee_bomb"]}
 
-# Sets the owner of the bee bomb to @s.
+# Initializes the bomb.
 function incndrybs:uuid/get_uuid
-execute at @s as @e[type=fireball,limit=1,sort=nearest,tag=incndrybs_new_bee_bomb] run function incndrybs:bee_bomb/set_owner
+execute at @s as @e[type=fireball,limit=1,sort=nearest,tag=incndrybs_new_bee_bomb] run function incndrybs:bee_bomb/intialize_owned
 function incndrybs:uuid/reset_get_uuid
