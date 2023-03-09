@@ -40,6 +40,10 @@ To uninstall, you first need to run this command:
 
 After that, remove the datapack from your world's datapacks folder before reloading.
 
+## Links
+
+- [Plannet Minecraft page](https://www.planetminecraft.com/data-pack/incendiary-bees "Incendiary Bees' page on Planet Minecraft")
+
 ## Screenshots
 
 ![screenshot](screenshots/curiosity.png)
