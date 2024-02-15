@@ -49,7 +49,6 @@ After that, remove the datapack from your world's datapacks folder before reload
 
 ## Links
 
-- [Plannet Minecraft page](https://www.planetminecraft.com/data-pack/incendiary-bees "Incendiary Bees' page on Planet Minecraft")
 - [Demonstration Video](https://www.youtube.com/watch?v=FldGUMvSmdo "Incendiary Bees demonstration video on YouTube")
 
 ## Changelog
