@@ -49,7 +49,7 @@ After that, remove the datapack from your world's datapacks folder before reload
 
 ## Links
 
-- [Demonstration Video](https://www.youtube.com/watch?v=FldGUMvSmdo "Incendiary Bees demonstration video on YouTube")
+- [Demonstration Video](https://odysee.com/Bees-Go-Boom:be3aee1d2306464c2c10a2d6c1a13224f4ec364d?r=HYroMZaqrVN4gL5oSJ35gcTgt3K56r39 "Incendiary Bees demonstration video on Odysee")
 
 ## Changelog
 
